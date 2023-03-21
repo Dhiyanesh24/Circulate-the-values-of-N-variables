@@ -25,3 +25,4 @@ n=int(input())
 ![git](https://user-images.githubusercontent.com/118362288/226570499-3c0e5528-7214-4bee-8df3-b4de59a702e6.jpg)
 
 ## Result:
+Thus the python program to circulate the n variables using function concept is verified
