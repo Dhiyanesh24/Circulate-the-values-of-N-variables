@@ -13,11 +13,15 @@ Get the value from the user for the number of rotation
 ### Step 5: Print the Result.
 ### Step 6: End the Program.
 ## Program:
-def circulate():
-    circul=l[n:]+l[:n]
-    print("After circulating the values are:",circul)
-l=eval(input())
-n=int(input())
+     #program to circulate the values of N variables
+     #Developed by: Dhiyaneshwar 
+     #RegisterNumber: 212222110009
+
+     def circulate():
+         circul=l[n:]+l[:n]
+         print("After circulating the values are:",circul)
+     l=eval(input())
+     n=int(input())
 
 ## Output:
 ![git](https://user-images.githubusercontent.com/118362288/226570499-3c0e5528-7214-4bee-8df3-b4de59a702e6.jpg)
